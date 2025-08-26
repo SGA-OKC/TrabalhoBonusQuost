@@ -13,3 +13,6 @@ O SOLID é um conjunto de 5 princípios de programação que ajudam a criar cód
 *📊Diagrama simples*
 
 image::diagrama.jpg[alt=Diagrama, width=200px]
+
+  Adotamos Strategy para OCP no pagamento
+ Injeção de Dependência no ServicoDeCheckout
